@@ -10,6 +10,7 @@ export default class LoginPage extends Component {
             <View>
 
             <Text>This is the login page</Text>
+            
 
             <TextInput
             placeholder="Username"
@@ -25,13 +26,8 @@ export default class LoginPage extends Component {
             <Button
             
             title="Login"
-            
-            
             />
-
-
-
-            </View>
+        </View>
 
         )
 
