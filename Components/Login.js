@@ -10,7 +10,7 @@ export default class LoginPage extends Component {
             <View>
 
             <Text>This is the login page</Text>
-            <Text>This is a test of Github</Text>
+            
 
             <TextInput
             placeholder="Username"
