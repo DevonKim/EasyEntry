@@ -8,7 +8,7 @@ export default class LoginPage extends Component {
 
         return(
             <View>
-
+                
             <Text>This is the login page</Text>
             
 
