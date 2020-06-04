@@ -8,7 +8,7 @@ export default class MainPage extends Component {
 
         return(
             <View>
-                <Text>This is the Main Page</Text>
+                <Text>Test run for github</Text>
             </View>
 
 
