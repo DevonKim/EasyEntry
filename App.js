@@ -4,9 +4,12 @@ import {createStackNavigator} from 'react-navigation-stack';
 import { StyleSheet, Text, View } from 'react-native';
 
 import Login from './Components/Login';
+import Main from './Components/Main';
+
 
 const MainNavigator = createStackNavigator({
-  Login: {screen: Login}
+  Login: {screen: Login},
+  Main: {screen: Main}
 
 
 
